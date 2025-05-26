@@ -1,4 +1,24 @@
 A2
+Flashcard Quiz Study App - README
+Overview
+This Android Flashcard Quiz Study App is a simple educational app that allows users to test their knowledge with true/false questions. It consists of four screens: MainActivity, QuizScreen2, ScoreScreen3, and ReviewScreen4.
+1. MainActivity
+This is the entry point of the application. It displays a start button which launches the quiz screen (QuizScreen2).
+2. QuizScreen2
+This is the main quiz interface. It presents a series of true/false questions to the user. Users receive immediate feedback on whether their answer is correct or incorrect. After answering a question, the 'Next' button is enabled to proceed to the next one. Once all questions are answered, it navigates to the score screen (ScoreScreen3).
+3. ScoreScreen3
+This screen displays the user's total score out of 5 and provides motivational feedback based on performance. It includes buttons to review the quiz (go to ReviewScreen4) or exit the app.
+4. ReviewScreen4
+This screen allows users to review each question, displaying the question, the user's answer, the correct answer, and whether the user was correct. It supports reviewing both correct and incorrect answers.
+Data Flow
+Data such as questions, correct answers, and user answers are passed between activities using Intents. The ScoreScreen3 receives the score from QuizScreen2. The ReviewScreen4 receives the question array, correct answers array, and user answers array from ScoreScreen3.
+Navigation
+• MainActivity → QuizScreen2 (start quiz)
+• QuizScreen2 → ScoreScreen3 (after quiz ends)
+• ScoreScreen3 → ReviewScreen4 (review answers)
+Final Notes
+The app is designed with simplicity and ease of use in mind, making it suitable for educational purposes. The logic can be easily extended to include more question types or different feedback formats.
+
 
 Images and Screenshots
 
