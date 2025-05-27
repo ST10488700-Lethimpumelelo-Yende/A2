@@ -37,4 +37,23 @@ Images and Screenshots
 ![image](https://github.com/user-attachments/assets/2ec7e934-5134-4876-be84-95deb9ffddbe)
 ![image](https://github.com/user-attachments/assets/fc3c1515-d246-4b87-936f-d6246c08918e)
 ![image](https://github.com/user-attachments/assets/bd35c660-aa56-43c4-a82d-41cd2bcc44c4)
-![image](https://github.com/user-attachments/assets/d08e8ad1-3eee-4618-adf1-f3685c40172a)
+![image](https://github.com/user-attachments/assets/d08e8ad1-3eee-4618-adf1-f3685c40172a) 
+
+https://github.com/ST10488700-Lethimpumelelo-Yende/A2.git ( repository link)
+
+CODE ATTRIBUTIONS:
+
+//CODE ATTRIBUTIONS
+//THIS METHOD WAS TAKEN FROM
+//Code assistance provided by [ChatGPT](https://chat.openai.com)
+//AI CHATGPT
+
+
+//CODE ATTRIBUTIONS
+//THIS METHOD WAS TAKEN FROM
+//https://www.geeksforgeeks.org/creating-multiple-screen-applications-in-android/
+//GEEKSFORGEEKS
+
+YOUTUBE VIDEO:
+
+https://youtu.be/uU_3p2cwaOk
